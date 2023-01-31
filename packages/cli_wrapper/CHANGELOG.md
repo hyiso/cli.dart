@@ -1,3 +1,7 @@
+## 0.5.1
+
+ - **FEAT**: update homepage & repository links. ([e6fd1995](https://github.com/hyiso/cli.dart/commit/e6fd1995f2a660b984fb4f99df60a9972191d4a8))
+
 ## 0.5.0
 
 - Breaking Change:
