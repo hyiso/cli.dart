@@ -1,1 +1,1 @@
-See [fluterw](../../flutterw)
+See [flutterw](https://pub.dev/packages/flutterw).

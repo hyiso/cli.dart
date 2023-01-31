@@ -23,4 +23,4 @@ depedencies:
 
 ## Usage
 
-See [flutterw](../flutterw).
+See [flutterw](https://pub.dev/packages/flutterw).

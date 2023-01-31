@@ -6,3 +6,4 @@ rules:
     - always
     - - cli_hook
       - cli_wrapper
+      - release
