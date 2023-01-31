@@ -1,0 +1,8 @@
+include: ./packages/commitlint_config/lib/commitlint.yaml
+
+rules:
+  scope-enum:
+    - 2
+    - always
+    - - cli_hook
+      - cli_wrapper
