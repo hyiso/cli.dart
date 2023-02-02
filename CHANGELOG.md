@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2023-02-03
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - [`cli_hook` - `v0.3.0`](#cli_hook---v030)
+
+Packages with other changes:
+
+ - There are no other changes in this release.
+
+---
+
+#### `cli_hook` - `v0.3.0`
+
+ - **BREAKING** **FEAT**: change Hook.run args type from Iterable<String> to List<String>. ([ba38123a](https://github.com/hyiso/cli.dart/commit/ba38123a767664a68492b2227a7f378c7e1014d5))
+
+
 ## 2023-02-01
 
 ### Changes

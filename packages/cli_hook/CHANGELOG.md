@@ -1,3 +1,9 @@
+## 0.3.0
+
+> Note: This release has breaking changes.
+
+ - **BREAKING** **FEAT**: change Hook.run args type from Iterable<String> to List<String>. ([ba38123a](https://github.com/hyiso/cli.dart/commit/ba38123a767664a68492b2227a7f378c7e1014d5))
+
 ## 0.2.1
 
  - **FEAT**: update homepage & repository links. ([e6fd1995](https://github.com/hyiso/cli.dart/commit/e6fd1995f2a660b984fb4f99df60a9972191d4a8))
