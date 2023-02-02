@@ -3,7 +3,7 @@ import 'dart:collection';
 import 'package:tuple/tuple.dart';
 
 abstract class Hook {
-  Future<void> run(Iterable<String> args);
+  Future<void> run(List<String> args);
 
   ///
   /// Search Command Hooks
